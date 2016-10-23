@@ -1,0 +1,14 @@
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management With interface\Employee Management With interface\bin\Debug\Employee Management With interface.exe.config
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management With interface\Employee Management With interface\obj\Debug\MainWindow.g.cs
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management With interface\Employee Management With interface\obj\Debug\App.g.cs
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management With interface\Employee Management With interface\obj\Debug\Employee Management With interface_MarkupCompile.cache
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management With interface\Employee Management With interface\obj\Debug\Employee Management With interface_MarkupCompile.lref
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management With interface\Employee Management With interface\bin\Debug\Employee Management With interface.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management With interface\Employee Management With interface\bin\Debug\Employee Management With interface.pdb
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management With interface\Employee Management With interface\obj\Debug\MainWindow.baml
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management With interface\Employee Management With interface\obj\Debug\Employee Management With interface.g.resources
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management With interface\Employee Management With interface\obj\Debug\Employee_Management_With_interface.Properties.Resources.resources
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management With interface\Employee Management With interface\obj\Debug\Employee Management With interface.csproj.GenerateResource.Cache
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management With interface\Employee Management With interface\obj\Debug\Employee Management With interface.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management With interface\Employee Management With interface\obj\Debug\Employee Management With interface.pdb
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management With interface\Employee Management With interface\obj\Debug\Employee Management With interface.csprojResolveAssemblyReference.cache
